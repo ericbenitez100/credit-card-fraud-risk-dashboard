@@ -36,7 +36,7 @@ Fraud was **0.58% of transactions but 4.37% of dollars**. By count it looks like
 ## Repository contents
 
 - `transactions_analysis.sql`: SQL scripts for cleaning and aggregation
-- `dashboard.pbix`: the Power BI file
+- dashboard.pbix: exceeds GitHub's 100MB file limit and is not included here. Available upon request.
 - `dashboard.png`: screenshot of the final dashboard
 
 ## Data source
